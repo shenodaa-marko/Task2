@@ -1,0 +1,11 @@
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\bin\Release\netcoreapp3.1\gc.json
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\bin\Release\netcoreapp3.1\Calendar.Manger.deps.json
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\bin\Release\netcoreapp3.1\Calendar.Manger.dll
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\bin\Release\netcoreapp3.1\Calendar.Manger.pdb
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.csproj.AssemblyReference.cache
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.AssemblyInfoInputs.cache
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.AssemblyInfo.cs
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.csproj.CoreCompileInputs.cache
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.dll
+C:\Users\i.tech\source\repos\Task 2\Calendar.Manger\obj\Release\netcoreapp3.1\Calendar.Manger.pdb
